@@ -1,0 +1,8 @@
+1. Go to the below link.
+2. Download the zip file.
+3. Extract the zip file.
+4. Paste "FRAS.exe" in project folder, eg. in this case my project folder is FRAS
+5. Open "FRAS.exe" application.
+6. That's all it.
+
+LINK: https://drive.google.com/file/d/1B49is_kL_MAuX1wE8kW9y3GW-Ucdy243/view?usp=sharing
